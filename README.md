@@ -19,6 +19,9 @@ Also includes features such as course creation tools, student teachers' communic
 * **Provides a wide range of courses:** With this script instructors can create and offer courses on a wide range of subjects, catering to diverse interests and learning needs.
 * **Allow flexible learning opportunities:** Students can utilize courses on[ Udemy clone software](https://migrateshop.com/udemy-clone/) at their own pace and schedule, providing flexibility and convenience compared to traditional classroom-based learning.
 * **Generate revenue for instructors:** By creating and selling courses on an Udemy clone platform instructors can generate passive income as they earn revenue from course sales without actively teaching or managing the platform daily.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“udemyclone.png" src="https://github.com/migrateshop/udemy-clone/blob/main/images/udemy-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+
 ## Key Features of an Udemy Clone
 * **User-Friendly Interface:** An[ Udemy clone app](https://migrateshop.com/udemy-clone/) should have a clean and intuitive interface that makes it easy for students to browse the courses, enroll in classes, and access learning materials
 * **Course Creation and Management Tools:** The platform should offer robust tools for instructors to create upload and manage their courses, including addicting videos, lectures, quizzes, assignments, and downloadable resources.
@@ -26,6 +29,8 @@ Also includes features such as course creation tools, student teachers' communic
 * **Video Streaming Capabilities:** Since video content is a key component of online courses an Udemy clone should have reliable video streaming functionalities to deliver high-quality video lectures to students.
 * **Certification System:** To enhance student engagement and motivation an[ Udemy clone php script](https://migrateshop.com/udemy-clone/) can include gasification features such as badges, points, and leader boards, as well as a certification system to award students upon course completion.
 * **Instructor Dashboard and Analytics:** An Udemy clone should provide instructors with a dashboard to track their course performance, including enrollment numbers, student feedback, and earnings as well as analytics to gain insights into student behavior and course effectiveness.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“udemyclone.png" src="https://github.com/migrateshop/udemy-clone/blob/main/images/udemy-clone-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ### Conclusion
 The e-learning industry is booming and there has never been a better time to tap into this lucrative market by starting your[ Udemy clone website](https://migrateshop.com/udemy-clone/). With our powerful and feature-rich Udemy clone solution, you can quickly and easily establish a robust e-learning platform without the hassles of building it from scratch. 
